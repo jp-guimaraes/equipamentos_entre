@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Estabilizadores e Nobreaks</title>
+    <link>https://jp-guimaraes.github.io/equipamentos_entre/home/</link>
+    <description>Recent content in Homes on Estabilizadores e Nobreaks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://jp-guimaraes.github.io/equipamentos_entre/home/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/equipamentos_entre/home/1_intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/equipamentos_entre/home/1_intro/</guid>
+      <description> Objetivos   Revisão básica da eletricidade/eletrônica básica por trás dos equipamentos que estão entre a tomada e a fonte do computador
+  Estudo do Estabilizador
+  Estudo do Nobreak
+  Especificação de equipamentos
+  Manutenção preventiva/corretiva
+   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/equipamentos_entre/home/2_equipamentos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/equipamentos_entre/home/2_equipamentos/</guid>
+      <description>Revisão  Equipamentos ligados entre o computador e a tomada  Extensão T, Benjamim Régua Filtro de Linha Transformador Estabilizador Nobreak   T, Benjamim Como funciona? Características, vantagens, desvantagens?
+ Extensão Como funciona? Características, vantagens, desvantagens?
+ Régua Como funciona?Características, vantagens, desvantagens?
+ Fusível O que é? Como funciona?
+ Fusível Proteção contra surtos de corrente
+Ligado em série
+ Quiz O que acontece quando um circuito é protegido por um fusível que está queimado?</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/equipamentos_entre/home/3_estabilizador/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/equipamentos_entre/home/3_estabilizador/</guid>
+      <description>Estabilizador  Para entender estabilizador
+Transformadores Relés
+ Transformador Conversão AC-AC;
+Simule!
+ Relés Dispositivo eletromecânicos
+Aplicações variadas
+Interfaceamento (possibilita o isolamento do circuito do controle do circuito de carga)
+Exemplos?
+ Exemplo: Microcontrolador funcionando em 5V aciona bomba ligada em 220V.
+  Corrente elétrica -&amp;gt; Campo magnético -&amp;gt; chaveamento
+ Principais tipos de relés:
+ NA (Normalmente Aberto): o contato inicialmente está aberto, sendo fechado quando uma corrente atravessar a bobina.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/equipamentos_entre/home/4_nobreak/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/equipamentos_entre/home/4_nobreak/</guid>
+      <description>No break UPS
+Características, vantagens, desvantagens?
+  Stand-by (offline)  Online Inversor sempre ligado
+ Interativo (offline)  Componentes  Dimensionamento de Nobreaks (também vale para estabilizadores)
+Watts (W) vs Volt-Ampere (VA)
+VA: potência aparente (ativa + perdas) W: potência real (ativa -&amp;gt; realizando trabalho)
+KVA -&amp;gt; Também usado no dimensionamento de geradores
+ Potência real x Aparente Eficiência
+Fator de potência (0~1)
+Fator de potência = Potência real/ Potência aparente (kW / kVA)</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/equipamentos_entre/home/5_baterias/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/equipamentos_entre/home/5_baterias/</guid>
+      <description>Baterias  Capacidade da bateria medida em ampere/hora
+Exemplo: Se temos 7.2 Ah a 12V, significa a bateria tem autonomia para manter um equipamento de 7.2 ampère funcionando por 1 hora.
+ Autonomia Quanto tempo o nobreak consegue fornecer energia para os equipamentos conectados a ele após uma falta de energia.
+ Associação de baterias Baterias em série: Aumento de tensão, mesma corrente máxima Baterias em paralelo: Aumento da corrente máxima, mesma tensão de operação</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/equipamentos_entre/home/5_manutencao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/equipamentos_entre/home/5_manutencao/</guid>
+      <description> Manutenção Preventiva e Corretiva
+ Preventiva   Verificação do dimensionamento da carga
+  Análise da bateria
+ Inspeção visual Tempo desde a última troca Teste sob carga     Corretiva  Bateria ruim pode impedir inicialização do sistema  Slides complementares
+ </description>
+    </item>
+    
+  </channel>
+</rss>
